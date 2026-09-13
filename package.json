@@ -1,0 +1,19 @@
+{
+  "name": "tpx-phase-problem-detector",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "description": "Privacy-first browser tool for stereo phase and mono-compatibility diagnostics.",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test",
+    "serve": "python3 -m http.server 4173 --directory dist"
+  },
+  "keywords": [
+    "audio",
+    "phase-correlation",
+    "mono-compatibility",
+    "web-audio",
+    "music-production"
+  ]
+}
