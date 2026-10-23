@@ -1,3 +1,7 @@
+> **Bu repo arşivlendi (2026-10-23).** Çalışma artık `kaygusuzemre/tpx-main` içinde, `araclar/tpx-phase-problem-detector/` klasöründe ve geçmişiyle birlikte sürüyor. Bu repo salt okunur kalır.
+>
+> **Archived (2026-10-23).** Development continues inside `kaygusuzemre/tpx-main` under `araclar/tpx-phase-problem-detector/`, with full history. This repository is read-only.
+
 # TPX Phase Problem Detector
 
 A privacy-first, browser-based stereo phase and mono-compatibility analyzer for musicians, mix engineers and audio-tool developers.
